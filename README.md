@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🎓 Pursuing B.Tech in CSE from **Kamla Nehru Institute of Technology (KNIT), Sultanpur**.
 - 🔭 Working on **End-to-End Machine Learning** pipelines and data analysis.
-- 🌱 Deepening my knowledge in **AI, Data Science, and DevOps**.
+- 🌱 Deepening my knowledge in **AI, Data Science**.
 - 💬 Ask me about **Python, C++, and Machine Learning Algorithms**.
 - 📫 Reach me at: **palashutosh1213@gmail.com**
 
