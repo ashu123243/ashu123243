@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Pal!</h1>
 <h3 align="center">Computer Science Engineering Student @ KNIT Sultanpur</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashu123243&label=Profile%20views&color=0e75b6&style=flat" alt="ashu123243" />
-</p>
-
 ---
 
 ### 🚀 About Me
